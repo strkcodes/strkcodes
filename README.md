@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center"><span style="color:#ffd6f4;">hi, i'm strkcodes 💻🌸</span></h1>
 
-<!--
-**strkcodes/strkcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em><span style="color:#ffd6f4;">future software engineer • currently learning C++ & DSA</span></em><br>
+  <em><span style="color:#ffd6f4;">documenting my CS journey :p</span></em>
+</p>
 
-Here are some ideas to get you started:
+────────── ⋆⋅☆⋅⋆ ──────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💕 about me
+- 💻 CS student trying to get ahead over the summer  
+- ✨ currently reading *Programming: Principles and Practice Using C++*  
+- 🎀 hoping to master DSA and object-oriented programming  
+- ☁️ dream job: intern for Pinterest, NASA, or any big creative-tech company :D  
+
+────────── ⋆⋅☆⋅⋆ ──────────
+
+### 🍓 goals 4 the summer
+- 🐚 go from beginner → intermediate level in C++  
+- 🍒 become confident with data structures & OOP  
+- 📐 learn (and not fear) calculus  
+- 💌 apply to fall internships  
+
+────────── ⋆⋅☆⋅⋆ ──────────
+
+### 🤍 currently working on
+- [ ] finishing Stroustrup Ch. 3  
+- [ ] writing code by hand before typing  
+
+────────── ⋆⋅☆⋅⋆ ──────────
+
+### 📫 connect with me
+- 🐦 [@strkcodes](https://twitter.com/strkcodes)
