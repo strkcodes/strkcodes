@@ -9,16 +9,14 @@
 
 ### 💕 about me
 - 💻 CS student trying to get ahead over the summer  
-- ✨ currently reading *Programming: Principles and Practice Using C++*  
 - 🎀 hoping to master DSA and object-oriented programming  
-- ☁️ dream job: intern for Pinterest, NASA, or any big creative-tech company :D  
+- ☁️ dream job: intern for Pinterest or any tech company :D  
 
 ────────── ⋆⋅☆⋅⋆ ──────────
 
 ### 🍓 goals 4 the summer
 - 🐚 go from beginner → intermediate level in C++  
-- 🍒 become confident with data structures & OOP  
-- 📐 learn (and not fear) calculus  
+- 🍒 become confident with data structures & OOP   
 - 💌 apply to fall internships  
 
 ────────── ⋆⋅☆⋅⋆ ──────────
