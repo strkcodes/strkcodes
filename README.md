@@ -22,8 +22,10 @@
 ────────── ⋆⋅☆⋅⋆ ──────────
 
 ### 🤍 currently working on
-- [ ] finishing Stroustrup Ch. 3  
-- [ ] writing code by hand before typing  
+
+- [ ] currently taking CS61A: Structure and Interpretation of Computer Programs 
+- [ ] writing code by hand before typing
+- [ ] finishing Stroustrup Ch. 3  (quit)
 
 ────────── ⋆⋅☆⋅⋆ ──────────
 
