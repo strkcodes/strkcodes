@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#ffd6f4;">hi, i'm strkcodes 💻🌸</span></h1>
+<h1 align="center"><span style="color:#ffd6f4;">hi, i'm strkcodes 🌸</span></h1>
 
 <p align="center">
   <em><span style="color:#ffd6f4;">future software engineer • currently learning C++ & DSA</span></em><br>
